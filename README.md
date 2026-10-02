@@ -1,2 +1,5 @@
-# Expense-Log-Analysis
-SQL project analyzing personal expense data to identify spending trends and recommendations.
+# Expense Log Analysis
+
+SQL analysis of personal expense data to identify spending trends.
+
+> 🚧 Full case study coming soon.
